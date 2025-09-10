@@ -1,0 +1,13 @@
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Otras carpetas típicas
+target/
+out/
